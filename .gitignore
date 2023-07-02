@@ -4,3 +4,5 @@ obj
 py-codes
 
 *.user
+.vs/
+*.ncrunchsolution
